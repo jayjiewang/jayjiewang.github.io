@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaogang Wang | Buyu Li&#39;s Homepage</title>
+    <link>https://libuyu.github.io/authors/xiaogang-wang/</link>
+      <atom:link href="https://libuyu.github.io/authors/xiaogang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaogang Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Xiaogang Wang</title>
+      <link>https://libuyu.github.io/authors/xiaogang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation</title>
+      <link>https://libuyu.github.io/publication/decouple3d/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
+      <guid>https://libuyu.github.io/publication/decouple3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving</title>
+      <link>https://libuyu.github.io/publication/gs3d/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://libuyu.github.io/publication/gs3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient Harmonized Single-stage Detector</title>
+      <link>https://libuyu.github.io/publication/ghm/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>https://libuyu.github.io/publication/ghm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
