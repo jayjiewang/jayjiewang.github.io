@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Buyu Li&#39;s Homepage</title>
-    <link>https://jiewang.github.io/</link>
-      <atom:link href="https://jiewang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <title>Jie Wang&#39;s Homepage</title>
+    <link>https://jayjiewang.github.io/</link>
+      <atom:link href="https://jayjiewang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jie Wang&#39;s Homepage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jie Wang&#39;s Homepage</title>
-      <link>https://jiewang.github.io/</link>
+      <link>https://jayjiewang.github.io/</link>
     </image>
     
     <item>
       <title>Equalization Loss for Long-Tailed Object Recognition (CVPR 2020)</title>
-      <link>https://jiewang.github.io/publication/eql/</link>
+      <link>https://jayjiewang.github.io/publication/eql/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiewang.github.io/publication/eql/</guid>
+      <guid>https://jayjiewang.github.io/publication/eql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation (AAAI 2020)</title>
-      <link>https://jiewang.github.io/publication/decouple3d/</link>
+      <link>https://jayjiewang.github.io/publication/decouple3d/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
-      <guid>https://jiewang.github.io/publication/decouple3d/</guid>
+      <guid>https://jayjiewang.github.io/publication/decouple3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving (CVPR 2019)</title>
-      <link>https://jiewang.github.io/publication/gs3d/</link>
+      <link>https://jayjiewang.github.io/publication/gs3d/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
-      <guid>https://jiewang.github.io/publication/gs3d/</guid>
+      <guid>https://jayjiewang.github.io/publication/gs3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient Harmonized Single-stage Detector (AAAI 2019 Oral)</title>
-      <link>https://jiewang.github.io/publication/ghm/</link>
+      <link>https://jayjiewang.github.io/publication/ghm/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0800</pubDate>
-      <guid>https://jiewang.github.io/publication/ghm/</guid>
+      <guid>https://jayjiewang.github.io/publication/ghm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid R-CNN (CVPR 2019)</title>
-      <link>https://jiewang.github.io/publication/gridrcnn/</link>
+      <link>https://jayjiewang.github.io/publication/gridrcnn/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0800</pubDate>
-      <guid>https://jiewang.github.io/publication/gridrcnn/</guid>
+      <guid>https://jayjiewang.github.io/publication/gridrcnn/</guid>
       <description></description>
     </item>
     
