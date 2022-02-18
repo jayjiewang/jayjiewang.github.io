@@ -4,17 +4,17 @@
     <title>Buyu Li&#39;s Homepage</title>
     <link>https://jiewang.github.io/</link>
       <atom:link href="https://jiewang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Buyu Li&#39;s Homepage</description>
+    <description>Jie Wang&#39;s Homepage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Buyu Li&#39;s Homepage</title>
-      <link>https://libuyu.github.io/</link>
+      <title>Jie Wang&#39;s Homepage</title>
+      <link>https://jiewang.github.io/</link>
     </image>
     
     <item>
       <title>Equalization Loss for Long-Tailed Object Recognition (CVPR 2020)</title>
-      <link>https://libuyu.github.io/publication/eql/</link>
+      <link>https://jiewang.github.io/publication/eql/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jiewang.github.io/publication/eql/</guid>
       <description></description>
@@ -24,7 +24,7 @@
       <title>Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation (AAAI 2020)</title>
       <link>https://jiewang.github.io/publication/decouple3d/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
-      <guid>https://libuyu.github.io/publication/decouple3d/</guid>
+      <guid>https://jiewang.github.io/publication/decouple3d/</guid>
       <description></description>
     </item>
     
